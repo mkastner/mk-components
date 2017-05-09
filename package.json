@@ -1,0 +1,11 @@
+{
+  "name": "mk-component",
+  "version": "0.0.1",
+  "description": "A simple frontend component structure for Webpack",
+  "main": "index.js",
+  "author": "John Galt",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
