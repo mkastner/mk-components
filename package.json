@@ -5,7 +5,14 @@
   "main": "index.js",
   "author": "John Galt",
   "license": "MIT",
+  "scripts": {
+    "github": "git push -u origin master"
+  },
   "devDependencies": {
     "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "uuid": "^3.0.1",
+    "mk-event": "https://github.com/mkastner/mk-event.git"
   }
 }
